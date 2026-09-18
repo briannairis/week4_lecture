@@ -7,9 +7,15 @@ body {
 }
 :active-view-transition 
 body{ background-color: blueviolet; font-family: 'Times New Roman', Times, serif;}
+
 section{
   padding: 2em;
   background-color: rgb(229, 42, 223);
   text-shadow: 6px 6px 6px plum;
   transform: rotate3d(40deg);
+}
+
+a{ 
+  text-decoration: underline;
+  color: bisque;
 }
