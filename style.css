@@ -20,3 +20,15 @@ a{
   text-decoration: underline;
   color: bisque;
 }
+
+a::cue{
+
+}
+
+a:text-shadow; {
+
+}
+
+.card{
+  text-transform: uppercase;
+}
