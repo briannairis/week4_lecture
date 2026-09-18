@@ -1,4 +1,6 @@
+header{ font-size: large;}
 body {
   background-color: gainsboro;
+  font-family: 'Courier New', Courier, monospace;
   min-height: 100vh;
 }
