@@ -3,6 +3,7 @@ body {
   background-color: gainsboro;
   font-family: 'Courier New', Courier, monospace;
   min-height: 100vh;
+  font-display: block;
 }
 :active-view-transition 
 body{ background-color: blueviolet; font-family: 'Times New Roman', Times, serif;}
