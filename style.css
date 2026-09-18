@@ -4,6 +4,7 @@ body {
   font-family: 'Courier New', Courier, monospace;
   min-height: 100vh;
   font-display: block;
+  font-feature-settings: "afrc";
 }
 :active-view-transition 
 body{ background-color: blueviolet; font-family: 'Times New Roman', Times, serif;}
